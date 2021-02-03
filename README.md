@@ -1,6 +1,6 @@
 # fund
 
-> A Vue.js project
+> 基金前端页面 - vue
 
 ## Build Setup
 
